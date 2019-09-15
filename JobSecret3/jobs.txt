@@ -1,0 +1,3 @@
+Alright. Please tell me more about your experience with Java development.
+Sounds good, quite impressive! What projects in the past required you to use software development skills.
+I see. Tell me what you know about Java database connectivity.
