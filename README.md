@@ -8,10 +8,15 @@ The python script to web scrape and apply Azure Text Analytics is Seperate from 
 ### Unity assets used
 
 Tool-UnityAssetCleaner: deletes unused assets from package
+
 Google VR SDK: provides Google VR support
+
 POLYGON - City Pack: a low poly asset pack of characters, buildings, props, vehicles and environment assets to create a city based polygonal style game
+
 Simple Office: a simple asset pack of office rooms and objects
+
 Microsoft Azure Speech SDK: provides Azure speech to text and text to speech support
+
 *Note: a sitting animation from Mixamo is used*
 
 ## Inspiration
