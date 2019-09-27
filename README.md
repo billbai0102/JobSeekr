@@ -1,8 +1,6 @@
 # JobSeeker
  A program that I created with a team at Hack The North 2019
 
-The python script to web scrape and apply Azure Text Analytics is Seperate from the Unity Folder (still included)
-
 ## Techniqual Details
 
 ### Unity assets used
@@ -33,3 +31,6 @@ We are proud that our project can be able to influence others in a positive way 
 
 ## What's next for JobSeekr
 Our team has planned the future direction of the project. We are going to integrate new technologies to improve current features. For example, adding machine learning to refine web scrapping results and generate more natural questions. Second, expanding the existing contents is also an area we focus on. We plan to add more scenarios such as coffee shops and small town scenes. They are aimed to create a relaxing environment for people to practice speaking confidently during interviews. Also, we are looking for more possibilities which can be implemented, such as deploy it into more platforms, like Facebook, Instagram, Twitter, or even a television.
+
+## Final 
+The python script to web scrape and apply Azure Text Analytics is Seperate from the Unity Folder (still included)
