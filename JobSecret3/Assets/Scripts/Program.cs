@@ -22,7 +22,7 @@ namespace TTS_Creator
             string accessToken;
 
             //Uses Authentication class to authenticate TTS API Key.
-            Authentication auth = new Authentication("https://eastus.api.cognitive.microsoft.com/sts/v1.0/issueToken", "e7da0995b44a4dc19f7182da2ae79f19");
+            Authentication auth = new Authentication("https://eastus.api.cognitive.microsoft.com/sts/v1.0/issueToken", "[redacted API Key] - Contact billbai0102@gmail.com for key, or use your own.");
             try
             {
                 accessToken = await auth.FetchTokenAsync().ConfigureAwait(false);
