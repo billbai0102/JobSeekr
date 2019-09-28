@@ -34,7 +34,7 @@ namespace SpeechTranscripter
 
         // Speech recognition key, required
         [Tooltip("Connection string to Cognitive Services Speech.")]
-        public string SpeechServiceAPIKey = "e7da0995b44a4dc19f7182da2ae79f19";
+        public string SpeechServiceAPIKey = "[redacted API Key] - Contact billbai0102@gmail.com for key, or use your own.";
         [Tooltip("Region for your Cognitive Services Speech instance (must match the key).")]
         public string SpeechServiceRegion = "eastus";
 
