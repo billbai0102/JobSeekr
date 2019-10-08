@@ -23,7 +23,7 @@ We noticed that students from high schools and universities are now struggling w
 ## How does JobSeekr work
 JobSeekr provides a unique VR Job Simulation by using advanced algorithms paired with Microsoft's Azure services in order to scrape data from user requested job postings, and create unique questions relevant to the job.
 
-## How we build JobSeekr
+## How we built JobSeekr
 We built JobSeekr by splitting up the project into the front end VR and text tools, and the back end job posting scraping text analysis. We used python with JSON data for analyzing text, using Azure Cognitive Services Text Analysis, while on the front end we used Unity for VR as well as Azure Text to Speech and Speech to Text.
 
 ## Accomplishments that we're proud of
