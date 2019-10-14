@@ -1,5 +1,5 @@
 # JobSeeker
- A program that I created with a team at Hack The North 2019
+Created by Bill Bai, Cecillia Sheng, Ricky Zhang, and Andrey Starenky at Hack the North 2019.
 
 ## Technical Details
 
