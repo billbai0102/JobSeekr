@@ -1,5 +1,5 @@
 # JobSeeker
-Created by Bill Bai, Cecillia Sheng, Ricky Zhang, and Andrey Starenky at Hack the North 2019.
+An advanced VR Job Simulator that I created with a team at HackTheNorth 2019. 36 hours of blood sweat and tears later, this is our final product. Enter any job listing link, and JobSeekr will create a simulation for you that speaks, receives your responses, and grades it.
 
 ## Technical Details
 
